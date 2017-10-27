@@ -67,3 +67,8 @@ crashlytics.properties
 crashlytics-build.properties
 fabric.properties
 
+.idea/
+annie-dot.iml
+annie.iml
+src/main/resources/
+src/test/
